@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/ProximaB_LightControl/Scenes/ArtnetSendReceive.unity
+  isLoaded: 1
+  isActive: 1
